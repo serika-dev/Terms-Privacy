@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date: November 19, 2024**
+_Last Updated: 19/11/2024_
 
 Welcome to Serika.dev! We value your privacy and are committed to protecting your personal information. This Privacy Policy provides a comprehensive explanation of how we collect, use, store, and protect your personal data, as well as outlining your rights under applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR).
 
