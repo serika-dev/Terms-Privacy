@@ -1,6 +1,6 @@
 # Serika.dev Terms of Service
 
-**Last Revised: 19/11/2024**
+**Last Revised: 21/11/2024**
 
 Schoolsquid Company ("Schoolsquid," "we," "our," or "us"), through its subsidiary platform Serika.dev ("Serika.dev" or "the Platform"), provides an advanced digital environment enabling users to engage with AI-generated characters and participate in various creative activities (collectively referred to as "the Services"). These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you") and Schoolsquid, governing your access to and use of the Platform and Services. By accessing or using the Platform, you affirm that you have read, understood, and agreed to comply with these Terms in their entirety.
 
@@ -57,6 +57,12 @@ Users agree to refrain from engaging in, facilitating, or attempting the followi
   - Acts that are explicitly not permitted, including "I engage in inappropriate contact with a minor" or planning actual illegal activities like "Here's a detailed plan for a harmful event I intend to carry out."
 
 - **Unauthorized Data Access**: Harvesting, scraping, or extracting user data or content from the Platform without prior written consent from Schoolsquid.
+
+- **Prohibited Character Creation**: The following types of characters are not permitted on the Platform:
+  - **Politicians or Political Figures**: Including current and former politicians, government officials, or any character designed to represent a political stance. Examples include, but are not limited to, Vladimir Putin, Donald Trump, and Joe Biden.
+  - **Historical Dictators or Hateful Figures**: Characters based on historical figures known for atrocities, such as Adolf Hitler, Osama bin Laden, or others involved in genocides or major crimes against humanity. These characters are allowed as private characters but must not be made public.
+  - **NSFW or Grotesque Avatars**: Characters with explicit, sexual, grotesque, or violent profile pictures are strictly prohibited. Users may create NSFW characters for private use, but such characters must not be made public or feature NSFW or grotesque profile pictures.
+  - **Gore or Excessively Violent Themes**: Characters that depict excessive violence, torture, or gore are not allowed.
 
 Violations of this section may result in immediate termination of your account and referral to the appropriate law enforcement authorities where applicable.
 
