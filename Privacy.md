@@ -15,6 +15,7 @@ We collect and process the following types of personal information:
 - **Follower and Following Data**: Records of followers and users you are following, along with timestamps of these actions.
 - **API Settings**: Custom API configurations related to third-party integrations like OpenAI.
 - **Promotions and Subscriptions**: Details regarding promotional codes redeemed, premium status, and related expiry dates.
+- **Voice Data**: The Audio Samples you provide for us to train a voice model on.
 
 **2. Legal Bases for Processing Your Data**
 
