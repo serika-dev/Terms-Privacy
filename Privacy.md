@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last Updated: 09/12/2024_
+_Last Updated: 06/02/2025_
 
 Welcome to Serika.dev! We value your privacy and are committed to protecting your personal information. This Privacy Policy provides a comprehensive explanation of how we collect, use, store, and protect your personal data, as well as outlining your rights under applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR).
 
@@ -76,7 +76,7 @@ We implement appropriate technical and organizational measures to ensure the sec
 
 **9. Children's Privacy**
 
-Our services are not intended for individuals under the age of 16. We do not knowingly collect personal information from children under 16. If you believe that a child has provided us with personal data, please contact us, and we will take steps to delete that information promptly. We also implement measures to verify the age of users where applicable.
+Our services are not intended for individuals under the age of 18. We do not knowingly collect personal information from children under 18. If you believe that a child has provided us with personal data, please contact us, and we will take steps to delete that information promptly. We also implement measures to verify the age of users where applicable.
 
 **10. Changes to This Privacy Policy**
 
