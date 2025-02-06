@@ -16,7 +16,7 @@ The Platform reserves the right to amend these Terms unilaterally at any time. N
 
 ## 2. Eligibility
 
-The Platform is intended solely for individuals aged 16 and older. By accessing or using the Platform, you represent and warrant that you meet this age requirement and that all personal information submitted during registration is truthful, accurate, and complete. We may require proof of age or identity at any time and reserve the right to suspend or terminate accounts of users who fail to meet the eligibility criteria.
+The Platform is intended solely for individuals aged 18 and older. By accessing or using the Platform, you represent and warrant that you meet this age requirement and that all personal information submitted during registration is truthful, accurate, and complete. We may require proof of age or identity at any time and reserve the right to suspend or terminate accounts of users who fail to meet the eligibility criteria.
 
 Furthermore, you represent that you have not been previously banned, restricted, or otherwise prohibited from using the Platform for violations of these Terms or applicable laws. Accounts found in violation of this section may be immediately terminated without prior notice or liability.
 
@@ -120,7 +120,7 @@ Schoolsquid reserves the right, in its sole discretion, to suspend or terminate 
 
 - **Policy Violations**: Repeated breaches of Platform guidelines, engaging in disruptive behaviors, or using the Platform in a manner deemed detrimental to other users or Schoolsquid.
 
-- **Age Violation**: Discovery of users who do not meet the age requirement of 16 years or older.
+- **Age Violation**: Discovery of users who do not meet the age requirement of 18 years or older.
 
 Termination is final and includes forfeiture of access to your account, data, and any associated content. Schoolsquid shall not be liable for any consequences resulting from the suspension or termination of accounts.
 
