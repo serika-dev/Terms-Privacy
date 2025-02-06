@@ -1,6 +1,6 @@
 # Serika.dev Terms of Service
 
-**Last Revised: 09/12/2024**
+**Last Revised: 06/02/2025**
 
 Schoolsquid Company ("Schoolsquid," "we," "our," or "us"), through its subsidiary platform Serika.dev ("Serika.dev" or "the Platform"), provides an advanced digital environment enabling users to engage with AI-generated characters and participate in various creative activities (collectively referred to as "the Services"). These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you") and Schoolsquid, governing your access to and use of the Platform and Services. By accessing or using the Platform, you affirm that you have read, understood, and agreed to comply with these Terms in their entirety.
 
