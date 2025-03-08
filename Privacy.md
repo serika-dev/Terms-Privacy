@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last Updated: 06/02/2025_
+_Last Updated: 08/03/2025_
 
 Welcome to Serika.dev! We value your privacy and are committed to protecting your personal information. This Privacy Policy provides a comprehensive explanation of how we collect, use, store, and protect your personal data, as well as outlining your rights under applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR).
 
@@ -16,6 +16,9 @@ We collect and process the following types of personal information:
 - **API Settings**: Custom API configurations related to third-party integrations like OpenAI.
 - **Promotions and Subscriptions**: Details regarding promotional codes redeemed, premium status, and related expiry dates.
 - **Voice Data**: The Audio Samples you provide for us to train a voice model on.
+- **Date of Birth (Age)**: Your date of birth for age verification and compliance purposes.
+- **Content Preferences**: Your preference regarding viewing Not Safe For Work (NSFW) content.
+- **Developer API Keys**: Information about whether you have created or requested a developer API key.
 
 **2. Legal Bases for Processing Your Data**
 
@@ -33,11 +36,10 @@ We use the collected information for the following purposes:
 - To create and manage your user account.
 - To provide, maintain, and improve our services.
 - To manage billing and payments for premium services.
-- To personalize your experience and provide relevant content.
+- To personalize your experience and provide relevant content based on your preferences, including age verification and NSFW content preferences.
 - To communicate with you about updates, promotional offers, and other relevant information.
-- To ensure compliance with legal obligations and to enforce our Terms of Service.
-- To enhance security, prevent fraud, and protect against misuse of our platform.
-- To comply with any applicable laws, regulations, or governmental requests.
+- To ensure compliance with applicable laws, regulations, or governmental requests.
+- To support API development and manage developer access through API keys.
 
 **4. Data Retention**
 
