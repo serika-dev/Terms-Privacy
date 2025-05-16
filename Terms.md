@@ -1,8 +1,16 @@
 # Serika.dev Terms of Service
 
-**Last Revised: 10/03/2025**
+**Last Revised: 16/05/2025**
 
 Schoolsquid Company ("Schoolsquid," "we," "our," or "us"), through its subsidiary platform Serika.dev ("Serika.dev" or "the Platform"), provides an advanced digital environment enabling users to engage with AI-generated characters and participate in various creative activities (collectively referred to as "the Services"). These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you") and Schoolsquid, governing your access to and use of the Platform and Services. By accessing or using the Platform, you affirm that you have read, understood, and agreed to comply with these Terms in their entirety.
+
+---
+
+## 0. International Scope, Compliance, and User Responsibility
+
+Serika.dev is accessible worldwide, but not all features or services may be available in all jurisdictions. By accessing or using the Platform, you represent and warrant that your use is in full compliance with all applicable local, national, and international laws and regulations, including but not limited to data protection, consumer protection, export control, and sanctions laws. You are solely responsible for ensuring that your use of the Platform is lawful in your jurisdiction. Schoolsquid disclaims all liability for any use of the Platform that is prohibited by law in your location. The Platform is not available in jurisdictions where its use is prohibited by law.
+
+Users from the European Union, United Kingdom, United States, Canada, Australia, and other regions may have additional rights under applicable data protection and consumer laws (including but not limited to GDPR, CCPA, PIPEDA, and similar regulations). Nothing in these Terms limits any non-waivable rights you may have under such laws.
 
 ---
 
@@ -30,7 +38,7 @@ Furthermore, you represent that you have not been previously banned, restricted,
 
 - **Security Obligations**: You agree to implement appropriate measures to ensure the confidentiality of your account credentials. You are obligated to immediately report any unauthorized access or breach of your account to Schoolsquid. Schoolsquid shall not be liable for damages resulting from unauthorized use of your account.
 
-- **Account Termination**: Schoolsquid reserves the right to suspend or terminate user accounts, with or without notice, in its sole discretion. Grounds for such suspension or termination may include, but are not limited to, violation of these Terms, fraudulent activity, or illegal conduct.
+- **Account Termination**: Schoolsquid reserves the right to suspend or terminate user accounts, with or without notice, in its sole discretion. Grounds for such suspension or termination may include, but are not limited to, violation of these Terms, fraudulent activity, or illegal conduct. Schoolsquid may immediately suspend or terminate your account for any breach of these Terms, with no refund or compensation, and may cooperate with law enforcement or regulatory authorities in any jurisdiction as required by law.
 
 ---
 
@@ -58,6 +66,8 @@ Users agree to refrain from engaging in, facilitating, or attempting the followi
   - **NSFW Content**: Users may create and engage with NSFW content and characters, but such content must be properly flagged as NSFW. Public NSFW content must adhere to Platform guidelines, including prohibitions on illegal or exploitative material.
   - **Gore or Excessively Violent Themes**: Characters that depict excessive violence, torture, or gore are not allowed.
 
+- **Export Control and Sanctions**: You may not use the Platform in violation of any applicable export control laws or economic sanctions, including those administered by the European Union, United States, United Kingdom, or United Nations. You represent that you are not located in, under the control of, or a national or resident of any country subject to such sanctions or embargoes.
+
 Violations of this section may result in immediate termination of your account and referral to the appropriate law enforcement authorities where applicable.
 
 ---
@@ -72,8 +82,9 @@ Violations of this section may result in immediate termination of your account a
 
 - **Content Removal Requests**: If you encounter any content that infringes on your copyright, please contact us at **[copyright@serika.dev](mailto\:copyright@serika.dev)**.
 
----
+- **Data Usage, AI Training, and Privacy**: By using the Platform, you acknowledge and agree to the terms of our Privacy Policy, which is incorporated by reference. User messages are NOT used for AI training unless you have explicitly opted in to the AI training program. Data from users participating in the beta program (except for messages) may be used to improve user services, but will NEVER be used to train or develop a custom AI LLM unless you have opted in to the AI training program. Error reports are sent automatically to us via a secure webhook and you cannot opt out of this process. For more information, please review our Privacy Policy.
 
+---
 
 ## 6. Billing and Refunds
 
@@ -123,7 +134,7 @@ Termination is final and includes forfeiture of access to your account, data, an
 
 TO THE MAXIMUM EXTENT PERMISSIBLE BY LAW, SCHOOLSQUID DISCLAIMS ALL LIABILITY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE PLATFORM, EVEN IF SCHOOLSQUID HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS INCLUDES, BUT IS NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, REVENUE, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES.
 
-IN NO EVENT SHALL SCHOOLSQUID’S AGGREGATE LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR USE OF THE PLATFORM EXCEED THE AMOUNT PAID BY YOU, IF ANY, TO THE PLATFORM IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+IN NO EVENT SHALL SCHOOLSQUID'S AGGREGATE LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR USE OF THE PLATFORM EXCEED THE AMOUNT PAID BY YOU, IF ANY, TO THE PLATFORM IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
 
 Users agree to indemnify and hold harmless Schoolsquid, its affiliates, officers, employees, agents, and licensors from any claims, liabilities, damages, or expenses resulting from violations of these Terms or misuse of the Platform.
 
@@ -141,13 +152,13 @@ For users based in the United States, you acknowledge that Schoolsquid is not a 
 
 ## 11. Governing Law and Jurisdiction
 
-These Terms are governed by and shall be construed in accordance with the laws of the Netherlands, without regard to its conflict of laws principles. You agree to submit to the exclusive jurisdiction of the competent courts of the Netherlands for any dispute arising under these Terms, unless otherwise agreed in arbitration. This choice of jurisdiction is intended to ensure consistent application of Dutch laws and reduce exposure to conflicting international legal standards.
+These Terms are governed by and shall be construed in accordance with the laws of the Netherlands, without regard to its conflict of laws principles. You agree to submit to the exclusive jurisdiction of the competent courts of the Netherlands for any dispute arising under these Terms, unless otherwise agreed in arbitration. This choice of jurisdiction is intended to ensure consistent application of Dutch laws and reduce exposure to conflicting international legal standards. Notwithstanding the foregoing, you may have additional rights under the mandatory laws of your country of residence, and nothing in these Terms limits those rights where not permitted by law. If any provision of these Terms is deemed unenforceable in your jurisdiction, the remainder of the Terms shall remain in full force and effect.
 
 ---
 
 ## 12. Modifications and Updates
 
-Schoolsquid reserves the right to modify, amend, or discontinue the Platform, Services, or these Terms at any time without prior notice. Modifications will be effective upon publication, and your continued use of the Platform following any updates constitutes acceptance of the revised Terms.
+Schoolsquid reserves the right to modify, amend, or discontinue the Platform, Services, or these Terms at any time. Modifications will be effective upon publication, and your continued use of the Platform following any updates constitutes acceptance of the revised Terms. Material changes will be communicated to users via email or/and as discord annoucement. You have the right to opt out or close your account if you do not agree with the updated Terms. It is your responsibility to review the Terms regularly.
 
 In addition, Schoolsquid may introduce new features, modify existing functionalities, or remove features as part of Platform improvements. Users acknowledge and agree that such modifications may alter access, availability, or functionality and that these updates are an integral part of the Services.
 
@@ -161,6 +172,6 @@ If any provision of these Terms is deemed to be invalid, unlawful, or unenforcea
 
 ## 14. Entire Agreement
 
-These Terms, together with any additional policies incorporated by reference, constitute the entire agreement between you and Schoolsquid concerning the Platform and supersede all prior agreements, representations, and understandings.
+These Terms, together with any additional policies incorporated by reference (including the Privacy Policy), constitute the entire agreement between you and Schoolsquid concerning the Platform and supersede all prior agreements, representations, and understandings. By creating an account or using the Platform, you actively consent to these Terms and the Privacy Policy. If you do not agree, you must not use the Platform.
 
 For further information or questions regarding these Terms, please contact us at **privacy@schoolsquid.xyz**.
