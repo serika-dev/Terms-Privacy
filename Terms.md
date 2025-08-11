@@ -4,11 +4,11 @@
 
 ## 1. Introduction and Acceptance of Terms
 
-These Terms of Service (“Terms”) constitute a legally binding agreement between you (“User” or “you”) and Schoolsquid Company (“Schoolsquid,” “we,” “our,” or “us”), the operator of the Serika.dev platform (“Serika.dev” or “the Platform”). The Platform provides an advanced digital environment enabling users to engage with AI-generated characters and participate in various creative activities (collectively, “the Services”).
+These Terms of Service (“Terms”) form a legally binding agreement between you (“User” or “you”) and Schoolsquid Company (“Schoolsquid,” “we,” “our,” or “us”), the operator of the Serika.dev platform (“Serika.dev” or “the Platform”). The Platform offers an advanced digital environment enabling users to interact with AI-generated characters and participate in various creative activities (collectively, “the Services”).
 
-By accessing, browsing, or otherwise using the Platform, you acknowledge that you have read, understood, and agree to be bound by these Terms, together with our Privacy Policy and any other legal notices published by us. If you do not agree to these Terms, you must immediately cease all use of the Platform. If you are accepting these Terms on behalf of a legal entity, you represent and warrant that you have the authority to bind that entity, in which case “you” shall refer to both you and the entity.
+By accessing, browsing, or otherwise using the Platform, you confirm that you have read, understood, and agree to be bound by these Terms, along with our Privacy Policy and any other legal notices published by us. If you do not agree to these Terms, you must immediately stop using the Platform. If you are accepting these Terms on behalf of a legal entity, you represent and warrant that you have the authority to bind that entity, in which case “you” shall refer to both you and that entity.
 
-We reserve the right to amend these Terms at any time, with or without prior notice, by posting an updated version on the Platform. Your continued use of the Platform after such changes constitutes your acceptance of the revised Terms.
+We may update or amend these Terms at any time, with or without prior notice, by posting an updated version on the Platform. Your continued use of the Platform after such changes will constitute your acceptance of the revised Terms. We encourage you to review these Terms regularly to stay informed of any updates.
 
 ---
 
