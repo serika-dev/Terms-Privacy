@@ -1,6 +1,6 @@
 # Serika.dev Terms of Service
 
-**Last Revised: 11/08/2025**
+**Last Revised: 12/08/2025**
 
 ## 1. Introduction and Acceptance of Terms
 
