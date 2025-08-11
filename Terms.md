@@ -61,6 +61,7 @@ Users agree to refrain from engaging in, facilitating, or attempting the followi
 - **Prohibited Character Creation**: The following types of characters are not permitted on the Platform:
   
   - **Real People or Depictions of Real People**: No real individuals, including celebrities, influencers, or private individuals, are allowed. AI-generated adults that do not depict any existing person are permitted. However, real depictions or AI-generated representations of children are strictly prohibited.
+  - **Underage Anime Characters**: No underage anime characters are allowed, regardless of context or artistic style. Depictions of petite adult women are permitted, but any portrayal that suggests or represents a character as under the legal age of consent is strictly prohibited.
   - **Politicians or Political Figures**: Including current and former politicians, government officials, or any character designed to represent a political stance.
   - **Historical Dictators or Hateful Figures**: Characters based on historical figures known for atrocities. These characters are allowed as private characters but must not be made public.
   - **NSFW Content**: Users may create and engage with NSFW content and characters, but such content must be properly flagged as NSFW. Public NSFW content must adhere to Platform guidelines, including prohibitions on illegal or exploitative material.
