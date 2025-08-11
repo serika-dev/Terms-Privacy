@@ -105,13 +105,13 @@ Violations of this section may result in immediate termination of your account a
 
 ## 5. Content Ownership and Responsibility
 
-- **User-Generated Content**: Users retain ownership rights over any content they upload but grant Schoolsquid an irrevocable, perpetual, non-exclusive, royalty-free license to use, reproduce, modify, distribute, and display such content for operational, promotional, and business purposes.
+- **User-Generated Content**: Users retain ownership rights over any content they upload but grant Schoolsquid an irrevocable, perpetual, non-exclusive, royalty-free license to use, reproduce, modify, distribute, and display such content for operational, promotional, and business purposes. Users are solely responsible for the legality, accuracy, and appropriateness of their content, and must ensure it complies with all applicable laws and these Terms.
 
-- **AI-Generated Content**: The Platform generates responses using AI systems, and such responses are neither controlled nor endorsed by Schoolsquid. You acknowledge that these outputs may contain harmful, offensive, or otherwise objectionable material, and you agree to use the Platform at your own risk. Schoolsquid disclaims all responsibility and liability for AI-generated content.
+- **AI-Generated Content**: The Platform generates responses using AI systems, and such responses are neither controlled nor endorsed by Schoolsquid. You acknowledge that these outputs may contain harmful, offensive, or otherwise objectionable material, and you agree to use the Platform at your own risk. Schoolsquid disclaims all responsibility and liability for AI-generated content, including any consequences arising from reliance on such content.
 
-- **Content Moderation**: Schoolsquid reserves the right to monitor, review, remove, or reclassify content that violates these Terms or applicable laws. NSFW content that is not properly flagged may be subject to removal.
+- **Content Moderation**: Schoolsquid reserves the right, but not the obligation, to monitor, review, remove, restrict, or reclassify content that violates these Terms, applicable laws, or community guidelines, at its sole discretion. This includes the right to suspend or terminate accounts associated with such content. NSFW content that is not properly flagged or that violates applicable laws will be subject to removal without notice.
 
-- **Content Removal Requests**: If you encounter any content that infringes on your copyright, please contact us at **[copyright@serika.dev](mailto\:copyright@serika.dev)**.
+- **Content Removal Requests**: If you encounter any content that infringes on your copyright, violates applicable laws, or otherwise breaches these Terms, please contact us at **[copyright@serika.dev](mailto\:copyright@serika.dev)**. We will review and, if appropriate, remove or restrict access to such content in accordance with applicable laws and our policies.
 
 - **Data Usage, AI Training, and Privacy**: By using the Platform, you acknowledge and agree to the terms of our Privacy Policy, which is incorporated by reference. User messages are NOT used for AI training unless you have explicitly opted in to the AI training program. Data from users participating in the beta program (except for messages) may be used to improve user services, but will NEVER be used to train or develop a custom AI LLM unless you have opted in to the AI training program. Error reports are sent automatically to us via a secure webhook and you cannot opt out of this process. For more information, please review our Privacy Policy.
 
@@ -145,19 +145,20 @@ All such disclosures shall be conducted in compliance with applicable data prote
 
 ## 8. Account Suspension and Termination
 
-Schoolsquid reserves the right, in its sole discretion, to suspend or terminate user accounts, including but not limited to, for the following reasons:
+Schoolsquid reserves the right, in its sole discretion, to suspend, restrict, or terminate user accounts, temporarily or permanently, including but not limited to, for the following reasons:
 
 - **Violation of Terms**: Any violation of these Terms, policies, or applicable laws.
 
 - **Fraudulent Activity**: Initiating chargebacks, engaging in fraudulent transactions, or providing false payment information.
 
-- **Prohibited Content**: Uploading or distributing content that is illicit or violates the intellectual property rights of others.
+- **Prohibited Content**: Uploading or distributing content that is illicit, illegal, or violates the intellectual property rights of others.
 
 - **Policy Violations**: Repeated breaches of Platform guidelines, engaging in disruptive behaviors, or using the Platform in a manner deemed detrimental to other users or Schoolsquid.
 
 - **Age Violation**: Discovery of users who do not meet the age requirement of 16 years or older.
+- **Failure to Comply with Local Laws**: Using the Platform in a manner that violates the laws of your jurisdiction, even if such conduct is not illegal in the Netherlands.
 
-Termination is final and includes forfeiture of access to your account, data, and any associated content. Schoolsquid shall not be liable for any consequences resulting from the suspension or termination of accounts.
+Suspension or termination may occur without prior notice and may include the immediate removal of content, revocation of access to Services, and forfeiture of any subscription or payment without refund. Termination is final and includes forfeiture of access to your account, data, and any associated content. Schoolsquid shall not be liable for any consequences resulting from the suspension or termination of accounts. We reserve the right to cooperate fully with law enforcement and regulatory authorities in any jurisdiction.
 
 ---
 
@@ -169,8 +170,22 @@ In addition to the prohibitions set forth in Section 4, you agree to comply with
 - You will not upload or share any content that you do not have the legal right to distribute.
 - You will not attempt to gain unauthorized access to any portion of the Platform, other accounts, or computer systems connected to the Platform.
 - You will not use the Platform in any manner that could damage, disable, overburden, or impair our servers or networks.
+- **NSFW Content**: NSFW content is permitted on the Platform provided that:
+  - It is not illegal under applicable local, national, or international laws.
+  - It does not depict minors (real or fictional) in a sexualized manner.
+  - It is properly flagged as NSFW and complies with all other Platform guidelines.
+  - It does not promote or depict non-consensual acts, sexual exploitation, or other prohibited conduct.
+  - It does not violate intellectual property rights or other applicable restrictions.
+- **Illegal Content**: For the purposes of these Terms, "illegal content" includes but is not limited to:
+  - Child sexual abuse material (CSAM) or any sexualized depiction of minors.
+  - Content that promotes terrorism, human trafficking, or other criminal enterprises.
+  - Content that violates applicable obscenity laws or export control regulations.
+  - Content infringing on third-party intellectual property rights without authorization.
+- **Prohibited Conduct**: Includes harassment, threats, doxxing, stalking, incitement to violence, and any activity that endangers the safety of others.
 
-Violation of this Acceptable Use Policy may result in immediate suspension or termination of your account without notice.
+Schoolsquid reserves the right, at its sole discretion, to moderate, remove, restrict, or reclassify any content that violates these Terms, applicable laws, or community guidelines, and to suspend or terminate accounts engaged in such violations. Users are solely responsible for ensuring their content and conduct comply with all applicable laws in their jurisdiction, and ignorance of the law is not a defense.
+
+Violation of this Acceptable Use Policy may result in immediate suspension or termination of your account without notice, and may be referred to law enforcement where appropriate.
 
 ---
 
