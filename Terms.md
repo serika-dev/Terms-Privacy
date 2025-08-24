@@ -145,7 +145,7 @@ All such disclosures shall be conducted in compliance with applicable data prote
 
 ## 8. Account Suspension and Termination
 
-Schoolsquid reserves the right, in its sole discretion, to suspend, restrict, or terminate user accounts, temporarily or permanently, including but not limited to, for the following reasons:
+Schoolsquid reserves the right, in its sole discretion, to suspend, restrict, or terminate user accounts, temporarily or permanently, for any reason we deem necessary or appropriate, even if not explicitly mentioned in these Terms. This includes, but is not limited to, the following reasons:
 
 - **Violation of Terms**: Any violation of these Terms, policies, or applicable laws.
 
@@ -158,7 +158,7 @@ Schoolsquid reserves the right, in its sole discretion, to suspend, restrict, or
 - **Age Violation**: Discovery of users who do not meet the age requirement of 16 years or older.
 - **Failure to Comply with Local Laws**: Using the Platform in a manner that violates the laws of your jurisdiction, even if such conduct is not illegal in the Netherlands.
 
-Suspension or termination may occur without prior notice and may include the immediate removal of content, revocation of access to Services, and forfeiture of any subscription or payment without refund. Termination is final and includes forfeiture of access to your account, data, and any associated content. Schoolsquid shall not be liable for any consequences resulting from the suspension or termination of accounts. We reserve the right to cooperate fully with law enforcement and regulatory authorities in any jurisdiction.
+Suspension or termination may occur without prior notice and may include the immediate removal of content, revocation of access to Services, and forfeiture of any subscription or payment without refund. **Premium memberships will automatically cancel during any suspension period, and users will not receive refunds for such purchases.** Termination is final and includes forfeiture of access to your account, data, and any associated content. Schoolsquid shall not be liable for any consequences resulting from the suspension or termination of accounts. We reserve the right to cooperate fully with law enforcement and regulatory authorities in any jurisdiction.
 
 ---
 
