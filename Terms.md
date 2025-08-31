@@ -1,6 +1,6 @@
 # Serika.dev Terms of Service
 
-**Last Revised: 12/08/2025**
+**Last Revised: 31/08/2025**
 
 ## 1. Introduction and Acceptance of Terms
 
@@ -91,9 +91,9 @@ Users agree to refrain from engaging in, facilitating, or attempting the followi
 
 - **Prohibited Character Creation**: The following types of characters are not permitted on the Platform:
   
-  - **Real People or Depictions of Real People**: No real individuals, including celebrities, influencers, or private individuals, are allowed. AI-generated adults that do not depict any existing person are permitted. However, real depictions or AI-generated representations of children are strictly prohibited.
-  - **Politicians or Political Figures**: Including current and former politicians, government officials, or any character designed to represent a political stance.
-  - **Historical Dictators or Hateful Figures**: Characters based on historical figures known for atrocities. These characters are allowed as private characters but must not be made public.
+  - **Real People (Historical Figures)**: Depictions of deceased historical figures of public interest are allowed (e.g., Beethoven, Mozart, Napoleon, Isaac Newton, J. Robert Oppenheimer). Depictions of living private individuals or living celebrities are not allowed. Any depiction of minors (real or fictional) is strictly prohibited.
+  - **Politicians or Political Figures**: Depictions of living politicians or government officials are not allowed. Depictions of deceased historical political figures are allowed provided they do not promote hate, extremism, or propaganda.
+  - **Extremist or Hateful Figures and Regimes**: Characters that represent, glorify, or promote individuals or regimes responsible for genocide, terrorism, or crimes against humanity (e.g., Adolf Hitler, Nazi Germany, ISIS) are strictly prohibited, whether public or private.
   - **NSFW Content**: Users may create and engage with NSFW content and characters, but such content must be properly flagged as NSFW. Public NSFW content must adhere to Platform guidelines, including prohibitions on illegal or exploitative material.
   - **Gore or Excessively Violent Themes**: Characters that depict excessive violence, torture, or gore are not allowed.
 
