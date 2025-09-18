@@ -1,8 +1,8 @@
 # Privacy Policy
 
-_Last Updated: 16/05/2025_
+_Last Updated: 18/09/2025_
 
-Welcome to Serika.dev! We value your privacy and are committed to protecting your personal information. This Privacy Policy provides a comprehensive explanation of how we collect, use, store, and protect your personal data, as well as outlining your rights under applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR).
+Welcome to Serika.dev and Toka! We value your privacy and are committed to protecting your personal information. This Privacy Policy provides a comprehensive explanation of how we collect, use, store, and protect your personal data across Serika.dev and its sub-platform Toka, as well as outlining your rights under applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR).
 
 **1. Data We Collect**
 
@@ -20,6 +20,14 @@ We collect and process the following types of personal information:
 - **Content Preferences**: Your preference regarding viewing Not Safe For Work (NSFW) content.
 - **Developer API Keys**: Information about whether you have created or requested a developer API key.
 - **Error Reports**: Automatically generated error reports, which may include technical details about your usage and environment. These are sent to us via a secure webhook and you cannot opt out of this process.
+
+- **Toka Profile Data**: Display name, handle, biography, profile photo, banner image, links (e.g., website), optional location and language, account status (e.g., verified, protected), visibility and content preference settings relevant to Toka.
+- **Toka Posts and Interactions**: Posts you create on Toka and related metadata (timestamps, language, hashtags, mentions, links, attached media, polls), replies you make or receive, reposts/quotes you perform, and basic delivery metadata (e.g., the client used, approximate locale, non-precise location if enabled by you).
+- **Toka Engagement Data**: Your likes, bookmarks, reposts/quotes, and other engagement signals on Toka, along with associated timestamps.
+- **Toka Social Graph and Lists**: Your followers and accounts you follow on Toka, list creation and memberships, as well as mutes and blocks you apply to other accounts.
+- **Toka Safety and Moderation Settings**: Reports you submit, content labels you acknowledge, muted words/phrases, content filters, and other safety controls you configure on Toka.
+- **Toka Notification Preferences**: Your notification and delivery preferences for Toka (e.g., in-app notifications, email preferences), and high-level interaction events necessary to operate notifications.
+- **OAuth Authorizations**: Metadata about third-party OAuth clients you authorize (client identifier, scopes granted, creation and revocation timestamps). This does not include your password; access is controlled via OAuth tokens. Third-party applications operate under their own terms and privacy policies.
 
 **Beta Program and Data Usage**
 
@@ -52,6 +60,10 @@ We use the collected information for the following purposes:
 - To improve user services using data from the beta program (except for messages), but never for training or developing custom AI LLMs unless you have opted in to the AI training program.
 - To automatically collect and process error reports to maintain and improve the stability and security of our platform.
 
+- To operate Toka’s core features: create, publish, distribute, and display posts, replies, and reposts/quotes; populate feeds and recommendations; maintain social graphs, lists, and related discovery features.
+- To provide Toka engagement features: enable likes, bookmarks, and related analytics necessary to power user features and abuse prevention.
+- To enforce safety, security, and moderation on Toka: detect spam and abuse, apply content labels and filters you configure, and process reports.
+
 **4. Data Retention**
 
 We retain your personal information only as long as necessary to fulfill the purposes outlined in this Privacy Policy or to comply with legal requirements. Account data is retained while the account is active. Upon account deletion, we may retain certain information for a limited period for legal or regulatory purposes. All retained data will be securely stored and protected to ensure confidentiality.
@@ -63,6 +75,8 @@ We do not sell, trade, or otherwise transfer your personal information to outsid
 - **Service Providers**: We use third-party service providers, such as Stripe for payment processing, who are contractually obligated to protect your data.
 - **Legal Compliance**: We may disclose your information when required by law or in response to valid legal requests.
 - **Business Transfers**: In the event of a merger, acquisition, or asset sale, your data may be transferred, subject to appropriate safeguards to protect your privacy.
+
+- **Public Toka Content**: Content you choose to make public on Toka (such as public profile fields and public posts) is visible to others, may be reshared by other users, embedded, or indexed by search services. Your visibility settings determine who can see your content. Removing content may not immediately remove copies in caches, backups, or reshares by others.
 
 **6. International Data Transfers**
 

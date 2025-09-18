@@ -1,10 +1,10 @@
 # Serika.dev Terms of Service
 
-**Last Revised: 31/08/2025**
+**Last Revised: 18/09/2025**
 
 ## 1. Introduction and Acceptance of Terms
 
-These Terms of Service (“Terms”) form a legally binding agreement between you (“User” or “you”) and Schoolsquid Company (“Schoolsquid,” “we,” “our,” or “us”), the operator of the Serika.dev platform (“Serika.dev” or “the Platform”). The Platform offers an advanced digital environment enabling users to interact with AI-generated characters and participate in various creative activities (collectively, “the Services”).
+These Terms of Service (“Terms”) form a legally binding agreement between you (“User” or “you”) and Schoolsquid Company (“Schoolsquid,” “we,” “our,” or “us”), the operator of the Serika.dev platform and its sub-platforms, including Toka (“Serika.dev” and “Toka,” collectively the “Platform”). The Platform offers an advanced digital environment enabling users to interact with AI-generated characters and participate in various creative activities (collectively, “the Services”).
 
 By accessing, browsing, or otherwise using the Platform, you confirm that you have read, understood, and agree to be bound by these Terms, along with our Privacy Policy and any other legal notices published by us. If you do not agree to these Terms, you must immediately stop using the Platform. If you are accepting these Terms on behalf of a legal entity, you represent and warrant that you have the authority to bind that entity, in which case “you” shall refer to both you and that entity.
 
@@ -22,6 +22,10 @@ For the purposes of these Terms, the following definitions shall apply:
 - **“Services”** means all functionalities, tools, and features provided by the Platform.
 - **“User-Generated Content”** means any content uploaded, posted, or otherwise made available by a User.
 - **“AI-Generated Content”** means any content produced by the Platform’s artificial intelligence systems in response to User input.
+
+- **“Toka”** means the social microblogging sub-platform operated by Schoolsquid that utilizes Serika.dev account authentication and shares common infrastructure and policies with Serika.dev.
+- **“OAuth Client”** means a third-party application registered by an independent developer to access a User’s Serika.dev account via OAuth with the User’s authorization and subject to the scopes the User approves.
+- **“Third-Party Application”** means any application, website, or service not operated by Schoolsquid that a User authorizes to access their account through OAuth.
 
 ---
 
@@ -54,6 +58,8 @@ Furthermore, you represent that you have not been previously banned, restricted,
 - **Account Credentials**: Users bear sole responsibility for safeguarding their account credentials, including usernames, passwords, and other authentication details. You acknowledge that you are accountable for all activities conducted through your account, regardless of whether such activities are authorized by you.
 
 - **Security Obligations**: You agree to implement appropriate measures to ensure the confidentiality of your account credentials. You are obligated to immediately report any unauthorized access or breach of your account to Schoolsquid. Schoolsquid shall not be liable for damages resulting from unauthorized use of your account.
+
+- **OAuth and Third-Party Applications**: The Platform provides OAuth-based authentication for Serika.dev and Toka. You may authorize third-party OAuth clients created by independent developers to access your account according to the specific permissions (scopes) you approve. OAuth is available to any developer who registers an OAuth client in compliance with our policies; we may suspend or revoke any client at our discretion. You are solely responsible for the clients you authorize and the permissions you grant. Schoolsquid does not control or endorse third-party clients and is not liable for any actions taken by such developers or their applications, including data access, processing, or changes performed under the permissions you granted. You may revoke access at any time in your account settings. Use of your data by third-party clients is subject to those clients’ own terms and privacy policies.
 
 - **Account Termination**: Schoolsquid reserves the right to suspend or terminate user accounts, with or without notice, in its sole discretion. Grounds for such suspension or termination may include, but are not limited to, violation of these Terms, fraudulent activity, or illegal conduct. Schoolsquid may immediately suspend or terminate your account for any breach of these Terms, with no refund or compensation, and may cooperate with law enforcement or regulatory authorities in any jurisdiction as required by law.
 
@@ -114,6 +120,7 @@ Violations of this section may result in immediate termination of your account a
 - **Content Removal Requests**: If you encounter any content that infringes on your copyright, violates applicable laws, or otherwise breaches these Terms, please contact us at **[copyright@serika.dev](mailto\:copyright@serika.dev)**. We will review and, if appropriate, remove or restrict access to such content in accordance with applicable laws and our policies.
 
 - **Data Usage, AI Training, and Privacy**: By using the Platform, you acknowledge and agree to the terms of our Privacy Policy, which is incorporated by reference. User messages are NOT used for AI training unless you have explicitly opted in to the AI training program. Data from users participating in the beta program (except for messages) may be used to improve user services, but will NEVER be used to train or develop a custom AI LLM unless you have opted in to the AI training program. Error reports are sent automatically to us via a secure webhook and you cannot opt out of this process. For more information, please review our Privacy Policy.
+ - **Data Usage, AI Training, and Privacy**: By using the Platform, you acknowledge and agree to the terms of our Privacy Policy, which is incorporated by reference. User messages are NOT used for AI training unless you have explicitly opted in to the AI training program. Data from users participating in the beta program (except for messages) may be used to improve user services, but will NEVER be used to train or develop a custom AI LLM unless you have opted in to the AI training program. Error reports are sent automatically to us via a secure webhook and you cannot opt out of this process. For more information, please review our Privacy Policy. For Toka, we collect typical microblogging data categories necessary to operate the service (e.g., profiles, posts, replies, reposts/quotes, likes, bookmarks, follower/following relationships, mutes/blocks, lists, safety settings, and notification preferences), as described in detail in the Privacy Policy.
 
 ---
 
