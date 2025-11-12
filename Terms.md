@@ -240,6 +240,8 @@ By downloading, installing, or using the Serika Browser, you acknowledge and agr
 
 ---
 
+## 11. Dispute Resolution and Arbitration
+
 All disputes, controversies, or claims arising out of or in connection with these Terms, including their breach, termination, or validity, shall be resolved exclusively through binding arbitration conducted under the rules of the Dutch Arbitration Institute. Arbitration shall take place in the Netherlands, and the language of arbitration shall be English.
 
 By agreeing to these Terms, you waive the right to pursue claims through a court proceeding or participate in any class action against Schoolsquid. This arbitration clause shall survive the termination of your relationship with Schoolsquid and is intended to be interpreted broadly under applicable law.
@@ -248,7 +250,7 @@ For users based in the United States, you acknowledge that Schoolsquid is not a 
 
 ---
 
-## 11. Warranties and Disclaimers
+## 12. Warranties and Disclaimers
 
 The Platform and Services are provided on an “AS IS” and “AS AVAILABLE” basis without warranties of any kind, whether express, implied, statutory, or otherwise. We specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
 
@@ -256,11 +258,13 @@ We do not warrant that the Platform will be uninterrupted, error-free, secure, o
 
 ---
 
+## 13. Governing Law and Jurisdiction
+
 These Terms are governed by and shall be construed in accordance with the laws of the Netherlands, without regard to its conflict of laws principles. You agree to submit to the exclusive jurisdiction of the competent courts of the Netherlands for any dispute arising under these Terms, unless otherwise agreed in arbitration. This choice of jurisdiction is intended to ensure consistent application of Dutch laws and reduce exposure to conflicting international legal standards. Notwithstanding the foregoing, you may have additional rights under the mandatory laws of your country of residence, and nothing in these Terms limits those rights where not permitted by law. If any provision of these Terms is deemed unenforceable in your jurisdiction, the remainder of the Terms shall remain in full force and effect.
 
 ---
 
-## 12. Indemnification
+## 14. Indemnification
 
 You agree to indemnify, defend, and hold harmless Schoolsquid, its affiliates, officers, directors, employees, agents, licensors, and suppliers from and against all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys’ fees) arising from or relating to:
 
@@ -270,13 +274,15 @@ You agree to indemnify, defend, and hold harmless Schoolsquid, its affiliates, o
 
 ---
 
+## 15. Modifications to Terms and Services
+
 Schoolsquid reserves the right to modify, amend, or discontinue the Platform, Services, or these Terms at any time. Modifications will be effective upon publication, and your continued use of the Platform following any updates constitutes acceptance of the revised Terms. Material changes will be communicated to users via email or/and as discord annoucement. You have the right to opt out or close your account if you do not agree with the updated Terms. It is your responsibility to review the Terms regularly.
 
 In addition, Schoolsquid may introduce new features, modify existing functionalities, or remove features as part of Platform improvements. Users acknowledge and agree that such modifications may alter access, availability, or functionality and that these updates are an integral part of the Services.
 
 ---
 
-## 15. Termination
+## 16. Termination
 
 We may, in our sole discretion, suspend or terminate your access to the Platform at any time, with or without notice, for conduct that we believe violates these Terms or is otherwise harmful to other users, us, or third parties, or for any other reason.
 
@@ -284,11 +290,13 @@ Upon termination, all rights granted to you under these Terms will immediately c
 
 ---
 
+## 17. Severability
+
 If any provision of these Terms is deemed to be invalid, unlawful, or unenforceable, the remaining provisions shall remain in full force and effect. Such invalid provision shall be replaced with a valid provision that comes closest to the original intent of the invalid provision.
 
 ---
 
-## 14. Entire Agreement
+## 18. Entire Agreement
 
 These Terms, together with any additional policies incorporated by reference (including the Privacy Policy), constitute the entire agreement between you and Schoolsquid concerning the Platform and supersede all prior agreements, representations, and understandings. By creating an account or using the Platform, you actively consent to these Terms and the Privacy Policy. If you do not agree, you must not use the Platform.
 
