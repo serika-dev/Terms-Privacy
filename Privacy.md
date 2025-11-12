@@ -117,7 +117,20 @@ Please note that our services and operations are based in the European Union, an
 
 We take reasonable measures to ensure that the information we collect and use is accurate, up-to-date, and reliable. However, we cannot guarantee the complete accuracy of all data at all times. Users are responsible for ensuring the information they provide is accurate and for notifying us of any discrepancies. We disclaim liability for any consequences arising from inaccurate, outdated, or incomplete information provided by users.
 
-**13. Contact Information**
+**13. Serika Browser**
+
+The Serika Browser is a standalone web browser application developed and operated by Schoolsquid. Unlike our online services (Serika.dev and Toka), the Serika Browser operates on a completely different privacy model:
+
+- **Open Source**: The Serika Browser is fully open source. The complete source code is publicly available, allowing anyone to inspect, verify, and audit our privacy claims. This transparency ensures that our commitment to user privacy can be independently verified by the community.
+- **No Data Collection**: The Serika Browser does NOT collect, store, or transmit any user information, browsing data, history, or telemetry to our servers or any third parties.
+- **No Trackers**: The browser itself contains no tracking mechanisms, analytics, or monitoring tools. Your browsing activity remains completely private and is never shared with us or anyone else.
+- **Local-Only Operations**: All browser functionality, including settings, bookmarks, history, and preferences, is stored locally on your device. Nothing is synchronized to the cloud or transmitted externally unless you explicitly choose to use features that require internet connectivity (such as visiting websites).
+- **Third-Party Content**: While the Serika Browser itself does not track you, websites you visit may contain their own trackers, cookies, and analytics tools operated by third parties. The Serika Browser includes a built-in ad blocker and tracker blocker that can be enabled to prevent these third-party tracking mechanisms from functioning. When enabled, these privacy features significantly reduce or eliminate third-party tracking on the websites you visit.
+- **No Accounts or Authentication**: The Serika Browser does not require account creation, login, or any form of user authentication to function. Your usage of the browser is completely anonymous.
+
+In summary, the Serika Browser is designed with privacy as its foundation. We have no visibility into how you use the browser, what sites you visit, or any other aspect of your browsing activity. The browser operates entirely on your local device, and all data remains under your exclusive control.
+
+**14. Contact Information**
 
 If you have questions or concerns regarding this Privacy Policy, please contact us at:
 

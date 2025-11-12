@@ -212,6 +212,34 @@ You retain ownership of your User-Generated Content but grant us a worldwide, pe
 
 ---
 
+## 10a. Serika Browser
+
+The Serika Browser is a standalone web browser application developed and distributed by Schoolsquid. The Serika Browser operates independently from the Serika.dev Platform and Toka services and is governed by the following terms:
+
+- **Open Source Software**: The Serika Browser is fully open source. The complete source code is publicly available for inspection, review, and audit by anyone. This transparency allows independent verification of our privacy and security claims and enables community contributions to the browser's development.
+
+- **Privacy-First Design**: The Serika Browser is designed with user privacy as a core principle. The browser does NOT collect, store, or transmit any user data, browsing history, telemetry, or analytics to Schoolsquid or any third parties. All browsing activity remains entirely local to your device.
+
+- **No Tracking or Monitoring**: The Serika Browser contains no tracking mechanisms, data collection tools, or monitoring systems. Schoolsquid has no visibility into your browsing activities, visited websites, or usage patterns.
+
+- **Local Data Storage**: All browser data, including bookmarks, history, settings, and preferences, is stored exclusively on your local device. No data is synchronized to cloud services or transmitted to external servers operated by Schoolsquid.
+
+- **Third-Party Content and Built-In Protections**: While the Serika Browser itself does not track or collect user data, websites you visit may employ their own tracking technologies, cookies, and analytics tools. The Serika Browser includes built-in ad blocking and tracker blocking features that, when enabled, help prevent third-party websites from tracking your activity. These protections are user-configurable and do not affect the browser's core privacy guarantees.
+
+- **No Account Requirement**: The Serika Browser does not require user registration, account creation, or authentication. You may use the browser completely anonymously.
+
+- **Software Updates**: The Serika Browser may periodically check for software updates to ensure security and functionality. Update checks are performed in a privacy-preserving manner and do not transmit personally identifiable information.
+
+- **Disclaimer of Warranties**: The Serika Browser is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. Schoolsquid does not guarantee that the browser will be error-free, secure, or compatible with all systems or websites.
+
+- **Limitation of Liability**: Schoolsquid shall not be liable for any damages, losses, or issues arising from your use of the Serika Browser, including but not limited to data loss, security vulnerabilities, or incompatibility with third-party services. Your use of the browser is at your own risk.
+
+- **Separate from Platform Services**: The Serika Browser operates independently from Serika.dev and Toka. Terms and policies applicable to those services (such as account management, content policies, and data collection practices) do NOT apply to the Serika Browser itself, except where explicitly stated in this section.
+
+By downloading, installing, or using the Serika Browser, you acknowledge and agree to these terms. If you do not agree, you must immediately uninstall the browser and discontinue its use.
+
+---
+
 All disputes, controversies, or claims arising out of or in connection with these Terms, including their breach, termination, or validity, shall be resolved exclusively through binding arbitration conducted under the rules of the Dutch Arbitration Institute. Arbitration shall take place in the Netherlands, and the language of arbitration shall be English.
 
 By agreeing to these Terms, you waive the right to pursue claims through a court proceeding or participate in any class action against Schoolsquid. This arbitration clause shall survive the termination of your relationship with Schoolsquid and is intended to be interpreted broadly under applicable law.
