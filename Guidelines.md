@@ -27,11 +27,14 @@ These guidelines delineate the permissible and impermissible practices for emplo
 ### **Prohibited Practices**
 
 1. **Representation of Real Individuals**
-   - The generation of images or content depicting real individuals, whether public figures (e.g., celebrities or influencers) or private citizens, is expressly prohibited unless explicit, documented consent has been obtained. The protection of privacy and individual rights is paramount in ensuring ethical AI use.
+   - The generation of images or content depicting real individuals is permitted **ONLY** if explicit, documented consent has been obtained from the individual. Fictional depictions of real people are also allowed.
+   - If you believe content has been uploaded without the necessary consent, please reach out to **legal@serika.dev**.
+   - The protection of privacy and individual rights remains paramount; non-consensual depictions will be removed.
 
-2. **Political Content Generation**
-   - The creation of images or content featuring political figures, symbols, campaigns, or ideologically sensitive topics intended to provoke controversy, propagate misinformation, or serve propagandistic purposes is strictly forbidden.
-   - Such restrictions are imperative to maintain platform neutrality and mitigate the potential misuse of AI tools in politically charged or divisive contexts.
+2. **Political and Sensitive Content Generation**
+   - The creation of images or content featuring political figures (e.g., Trump), sensitive historical figures (e.g., Hitler), or ideologically sensitive topics is **allowed**, HOWEVER, such content **MUST be marked as NSFW**.
+   - Failure to properly tag sensitive characters or content as NSFW will result in moderation action.
+   - While allowed, we encourage users to approach these topics with responsibility and awareness of their potential impact.
 
 3. **Content Related to Illicit Activities**
    - The generation or discussion of content linked to illegal substances, activities, or conspiratorial undertakings is categorically banned. This includes, but is not limited to:

@@ -95,11 +95,10 @@ Users agree to refrain from engaging in, facilitating, or attempting the followi
 
 - **Unauthorized Data Access**: Harvesting, scraping, or extracting user data or content from the Platform without prior written consent from Schoolsquid.
 
-- **Prohibited Character Creation**: The following types of characters are not permitted on the Platform:
+- **Character Creation Restrictions**: The following restrictions apply to character creation on the Platform:
   
-  - **Real People (Historical Figures)**: Depictions of deceased historical figures of public interest are allowed (e.g., Beethoven, Mozart, Napoleon, Isaac Newton, J. Robert Oppenheimer). Depictions of living private individuals or living celebrities are not allowed. Any depiction of minors (real or fictional) is strictly prohibited.
-  - **Politicians or Political Figures**: Depictions of living politicians or government officials are not allowed. Depictions of deceased historical political figures are allowed provided they do not promote hate, extremism, or propaganda.
-  - **Extremist or Hateful Figures and Regimes**: Characters that represent, glorify, or promote individuals or regimes responsible for genocide, terrorism, or crimes against humanity (e.g., Adolf Hitler, Nazi Germany, ISIS) are strictly prohibited, whether public or private.
+  - **Real People**: Depictions of real existing humans are allowed **ONLY** if you have their consent. Fictional depictions of real people are also allowed. If you believe content has been uploaded without consent, please reach out to **legal@serika.dev**. Any depiction of minors (real or fictional) is strictly prohibited.
+  - **Politicians and Sensitive Figures**: Depictions of politicians (e.g., Trump), government officials, or controversial historical figures (e.g., Hitler) are allowed, **HOWEVER** they **MUST** be marked as **NSFW**.
   - **NSFW Content**: Users may create and engage with NSFW content and characters, but such content must be properly flagged as NSFW. Public NSFW content must adhere to Platform guidelines, including prohibitions on illegal or exploitative material.
   - **Gore or Excessively Violent Themes**: Characters that depict excessive violence, torture, or gore are not allowed.
 
