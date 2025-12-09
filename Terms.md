@@ -1,12 +1,12 @@
-# Serika.dev Terms of Service
+# Serika Terms of Service
 
 **Last Revised: 12/11/2025**
 
 ## 1. Introduction and Acceptance of Terms
 
-These Terms of Service (“Terms”) form a legally binding agreement between you (“User” or “you”) and Schoolsquid Company (“Schoolsquid,” “we,” “our,” or “us”), the operator of the Serika.dev platform and its sub-platforms, including Toka (“Serika.dev” and “Toka,” collectively the “Platform”). The Platform offers an advanced digital environment enabling users to interact with AI-generated characters and participate in various creative activities (collectively, “the Services”).
+These Terms of Service ("Terms") form a legally binding agreement between you ("User" or "you") and Schoolsquid Company ("Schoolsquid," "we," "our," or "us"), the operator of Serika and its services, including Toka, SerikaBooru (serika.art), and serikaVideo ("Serika," "the Services," or collectively the "Platform"). Serika offers an advanced digital environment enabling users to interact with AI-generated characters, participate in various creative activities, share image content, and view and create video content (collectively, "the Services").
 
-By accessing, browsing, or otherwise using the Platform, you confirm that you have read, understood, and agree to be bound by these Terms, along with our Privacy Policy and any other legal notices published by us. If you do not agree to these Terms, you must immediately stop using the Platform. If you are accepting these Terms on behalf of a legal entity, you represent and warrant that you have the authority to bind that entity, in which case “you” shall refer to both you and that entity.
+By accessing, browsing, or otherwise using any Serika service, you confirm that you have read, understood, and agree to be bound by these Terms, along with our Privacy Policy and any other legal notices published by us. If you do not agree to these Terms, you must immediately stop using the Services. If you are accepting these Terms on behalf of a legal entity, you represent and warrant that you have the authority to bind that entity, in which case "you" shall refer to both you and that entity.
 
 We may update or amend these Terms at any time, with or without prior notice, by posting an updated version on the Platform. Your continued use of the Platform after such changes will constitute your acceptance of the revised Terms. We encourage you to review these Terms regularly to stay informed of any updates.
 
@@ -23,61 +23,66 @@ For the purposes of these Terms, the following definitions shall apply:
 - **“User-Generated Content”** means any content uploaded, posted, or otherwise made available by a User.
 - **“AI-Generated Content”** means any content produced by the Platform’s artificial intelligence systems in response to User input.
 
-- **“Toka”** means the social microblogging sub-platform operated by Schoolsquid that utilizes Serika.dev account authentication and shares common infrastructure and policies with Serika.dev.
-- **“OAuth Client”** means a third-party application registered by an independent developer to access a User’s Serika.dev account via OAuth with the User’s authorization and subject to the scopes the User approves.
-- **“Third-Party Application”** means any application, website, or service not operated by Schoolsquid that a User authorizes to access their account through OAuth.
+- **"Toka"** means the social microblogging service operated by Schoolsquid that utilizes Serika account authentication via accounts.serika.dev and shares common infrastructure and policies with other Serika services.
+- **"SerikaBooru"** means the image hosting and sharing service (accessible at serika.art) operated by Schoolsquid that allows users to upload and share images, with optional authentication via accounts.serika.dev or anonymous usage, and which maintains a strict no AI training policy.
+- **"serikaVideo"** means the video hosting and sharing service operated by Schoolsquid that allows users to upload, watch, and share videos, with authentication via accounts.serika.dev.
+- **"OAuth Client"** means a third-party application registered by an independent developer to access a User's Serika account (managed via accounts.serika.dev) via OAuth with the User's authorization and subject to the scopes the User approves.
+- **"Third-Party Application"** means any application, website, or service not operated by Schoolsquid that a User authorizes to access their account through OAuth.
+- **"accounts.serika.dev"** means the centralized account management system that provides unified authentication across all Serika services.
 
 ---
 
-Serika.dev is accessible worldwide, but not all features or services may be available in all jurisdictions. By accessing or using the Platform, you represent and warrant that your use is in full compliance with all applicable local, national, and international laws and regulations, including but not limited to data protection, consumer protection, export control, and sanctions laws. You are solely responsible for ensuring that your use of the Platform is lawful in your jurisdiction. Schoolsquid disclaims all liability for any use of the Platform that is prohibited by law in your location. The Platform is not available in jurisdictions where its use is prohibited by law.
+Serika services are accessible worldwide, but not all features or services may be available in all jurisdictions. By accessing or using any Serika service, you represent and warrant that your use is in full compliance with all applicable local, national, and international laws and regulations, including but not limited to data protection, consumer protection, export control, and sanctions laws. You are solely responsible for ensuring that your use of Serika services is lawful in your jurisdiction. Schoolsquid disclaims all liability for any use that is prohibited by law in your location. Serika services are not available in jurisdictions where their use is prohibited by law.
 
-Users from the European Union, United Kingdom, United States, Canada, Australia, and other regions may have additional rights under applicable data protection and consumer laws (including but not limited to GDPR, CCPA, PIPEDA, and similar regulations). Nothing in these Terms limits any non-waivable rights you may have under such laws.
+Users from the European Union, United Kingdom, United States, Canada, Australia, and other regions may have additional rights under applicable data protection and consumer laws (including but not limited to GDPR, CCPA, PIPEDA, and similar regulations). Nothing in these Terms limits any non-waivable rights you may have under such laws. By using Serika services, you understand that your account is managed centrally at accounts.serika.dev and synchronized across all Serika platforms.
 
 ---
 
 ## 1. Acceptance of Terms
 
-Your access to and utilization of the Platform signifies your unconditional acceptance of these Terms. If you do not agree with any provision herein, you must cease using the Platform immediately. Continued use of the Platform constitutes your acceptance of these Terms, as they may be revised periodically. Should you agree to these Terms on behalf of an organization, you warrant that you have the authority to bind said organization, and "you" or "your" shall collectively refer to both you and the organization.
+Your access to and utilization of any Serika service signifies your unconditional acceptance of these Terms. If you do not agree with any provision herein, you must cease using the Services immediately. Continued use of Serika services constitutes your acceptance of these Terms, as they may be revised periodically. Should you agree to these Terms on behalf of an organization, you warrant that you have the authority to bind said organization, and "you" or "your" shall collectively refer to both you and the organization.
 
-The Platform reserves the right to amend these Terms unilaterally at any time. Notice of changes will be disseminated through updates to this document or other communication channels deemed appropriate by Schoolsquid. Users are responsible for regularly reviewing the Terms, and continued use following any modification constitutes acceptance of the revised Terms.
+Serika reserves the right to amend these Terms unilaterally at any time. Notice of changes will be disseminated through updates to this document or other communication channels deemed appropriate by Schoolsquid. Users are responsible for regularly reviewing the Terms, and continued use following any modification constitutes acceptance of the revised Terms.
 
 ---
 
 ## 2. Eligibility
 
-The Platform is intended solely for individuals aged 16 and older. By accessing or using the Platform, you represent and warrant that you meet this age requirement and that all personal information submitted during registration is truthful, accurate, and complete. We may require proof of age or identity at any time and reserve the right to suspend or terminate accounts of users who fail to meet the eligibility criteria.
+Serika services are intended solely for individuals aged 16 and older. By accessing or using any Serika service, you represent and warrant that you meet this age requirement and that all personal information submitted during registration is truthful, accurate, and complete. We may require proof of age or identity at any time and reserve the right to suspend or terminate accounts of users who fail to meet the eligibility criteria.
 
-Furthermore, you represent that you have not been previously banned, restricted, or otherwise prohibited from using the Platform for violations of these Terms or applicable laws. Accounts found in violation of this section may be immediately terminated without prior notice or liability.
+Furthermore, you represent that you have not been previously banned, restricted, or otherwise prohibited from using Serika services for violations of these Terms or applicable laws. Accounts found in violation of this section may be immediately terminated without prior notice or liability.
 
 ---
 
 ## 3. User Accounts
 
-- **Account Creation**: To access certain functionalities of the Platform, users must register an account by providing valid, accurate, and complete information. You agree to keep your account information up-to-date and promptly notify Schoolsquid of any unauthorized use of your account.
+- **Unified Account System**: All Serika services use a centralized account management system at accounts.serika.dev. When you create an account, it is automatically synchronized and available across all Serika services (including Toka, SerikaBooru, serikaVideo, and others). Your account status, authentication, and profile information are maintained consistently across all platforms.
+
+- **Account Creation**: To access functionalities of Serika services, users must register an account at accounts.serika.dev by providing valid, accurate, and complete information. You agree to keep your account information up-to-date and promptly notify Schoolsquid of any unauthorized use of your account.
 
 - **Account Credentials**: Users bear sole responsibility for safeguarding their account credentials, including usernames, passwords, and other authentication details. You acknowledge that you are accountable for all activities conducted through your account, regardless of whether such activities are authorized by you.
 
 - **Security Obligations**: You agree to implement appropriate measures to ensure the confidentiality of your account credentials. You are obligated to immediately report any unauthorized access or breach of your account to Schoolsquid. Schoolsquid shall not be liable for damages resulting from unauthorized use of your account.
 
-- **OAuth and Third-Party Applications**: The Platform provides OAuth-based authentication for Serika.dev and Toka. You may authorize third-party OAuth clients created by independent developers to access your account according to the specific permissions (scopes) you approve. OAuth is available to any developer who registers an OAuth client in compliance with our policies; we may suspend or revoke any client at our discretion. You are solely responsible for the clients you authorize and the permissions you grant. Schoolsquid does not control or endorse third-party clients and is not liable for any actions taken by such developers or their applications, including data access, processing, or changes performed under the permissions you granted. You may revoke access at any time in your account settings. Use of your data by third-party clients is subject to those clients’ own terms and privacy policies.
+- **OAuth and Third-Party Applications**: Serika services provide OAuth-based authentication for access via accounts.serika.dev. You may authorize third-party OAuth clients created by independent developers to access your account according to the specific permissions (scopes) you approve. OAuth is available to any developer who registers an OAuth client in compliance with our policies; we may suspend or revoke any client at our discretion. You are solely responsible for the clients you authorize and the permissions you grant. Schoolsquid does not control or endorse third-party clients and is not liable for any actions taken by such developers or their applications, including data access, processing, or changes performed under the permissions you granted. You may revoke access at any time in your account settings. Use of your data by third-party clients is subject to those clients' own terms and privacy policies. OAuth access grants permission to your account across all Serika services.
 
-- **Account Termination**: Schoolsquid reserves the right to suspend or terminate user accounts, with or without notice, in its sole discretion. Grounds for such suspension or termination may include, but are not limited to, violation of these Terms, fraudulent activity, or illegal conduct. Schoolsquid may immediately suspend or terminate your account for any breach of these Terms, with no refund or compensation, and may cooperate with law enforcement or regulatory authorities in any jurisdiction as required by law.
+- **Account Termination**: Schoolsquid reserves the right to suspend or terminate user accounts across all Serika services, with or without notice, in its sole discretion. Grounds for such suspension or termination may include, but are not limited to, violation of these Terms, fraudulent activity, or illegal conduct. Account termination will affect your access to all Serika services. Schoolsquid may immediately suspend or terminate your account for any breach of these Terms, with no refund or compensation, and may cooperate with law enforcement or regulatory authorities in any jurisdiction as required by law.
 
 ---
 
 ## 4. User Rights and Obligations
 
-You are granted a limited, non-exclusive, non-transferable, and revocable license to access and use the Platform strictly in accordance with these Terms. You agree to:
+You are granted a limited, non-exclusive, non-transferable, and revocable license to access and use Serika services strictly in accordance with these Terms. You agree to:
 
-- Use the Platform only for lawful purposes and in compliance with all applicable laws and regulations.
+- Use Serika services only for lawful purposes and in compliance with all applicable laws and regulations.
 - Maintain the confidentiality of your account credentials and be responsible for all activities under your account.
 - Promptly notify us of any unauthorized use of your account or any other breach of security.
 
 You shall not:
 
-- Engage in any activity that interferes with or disrupts the operation of the Platform.
-- Use the Platform to infringe upon the rights of others, including intellectual property rights.
-- Circumvent or attempt to circumvent any security measures implemented by the Platform.
+- Engage in any activity that interferes with or disrupts the operation of Serika services.
+- Use Serika services to infringe upon the rights of others, including intellectual property rights.
+- Circumvent or attempt to circumvent any security measures implemented by Serika services.
 
 ---
 
@@ -95,14 +100,14 @@ Users agree to refrain from engaging in, facilitating, or attempting the followi
 
 - **Unauthorized Data Access**: Harvesting, scraping, or extracting user data or content from the Platform without prior written consent from Schoolsquid.
 
-- **Character Creation Restrictions**: The following restrictions apply to character creation on the Platform:
+- **Content Creation Restrictions**: The following restrictions apply to content creation on Serika services:
   
-  - **Real People**: Depictions of real existing humans are allowed **ONLY** if you have their consent. Fictional depictions of real people are also allowed. If you believe content has been uploaded without consent, please reach out to **legal@serika.dev**. Any depiction of minors (real or fictional) is strictly prohibited.
+  - **Real People**: Depictions of real existing humans are allowed **ONLY** if you have their consent. Fictional depictions of real people are also allowed. If you believe content has been uploaded without consent, please reach out to **legal@serika.dev**. Any depiction of minors (real or fictional) in inappropriate contexts is strictly prohibited.
   - **Politicians and Sensitive Figures**: Depictions of politicians (e.g., Trump), government officials, or controversial historical figures (e.g., Hitler) are allowed, **HOWEVER** they **MUST** be marked as **NSFW**.
   - **NSFW Content**: Users may create and engage with NSFW content and characters, but such content must be properly flagged as NSFW. Public NSFW content must adhere to Platform guidelines, including prohibitions on illegal or exploitative material.
   - **Gore or Excessively Violent Themes**: Characters that depict excessive violence, torture, or gore are not allowed.
 
-- **Export Control and Sanctions**: You may not use the Platform in violation of any applicable export control laws or economic sanctions, including those administered by the European Union, United States, United Kingdom, or United Nations. You represent that you are not located in, under the control of, or a national or resident of any country subject to such sanctions or embargoes.
+- **Export Control and Sanctions**: You may not use Serika services in violation of any applicable export control laws or economic sanctions, including those administered by the European Union, United States, United Kingdom, or United Nations. You represent that you are not located in, under the control of, or a national or resident of any country subject to such sanctions or embargoes.
 
 Violations of this section may result in immediate termination of your account and referral to the appropriate law enforcement authorities where applicable.
 
@@ -112,14 +117,17 @@ Violations of this section may result in immediate termination of your account a
 
 - **User-Generated Content**: Users retain ownership rights over any content they upload but grant Schoolsquid an irrevocable, perpetual, non-exclusive, royalty-free license to use, reproduce, modify, distribute, and display such content for operational, promotional, and business purposes. Users are solely responsible for the legality, accuracy, and appropriateness of their content, and must ensure it complies with all applicable laws and these Terms.
 
-- **AI-Generated Content**: The Platform generates responses using AI systems, and such responses are neither controlled nor endorsed by Schoolsquid. You acknowledge that these outputs may contain harmful, offensive, or otherwise objectionable material, and you agree to use the Platform at your own risk. Schoolsquid disclaims all responsibility and liability for AI-generated content, including any consequences arising from reliance on such content.
+- **AI-Generated Content**: Serika services generate responses using AI systems, and such responses are neither controlled nor endorsed by Schoolsquid. You acknowledge that these outputs may contain harmful, offensive, or otherwise objectionable material, and you agree to use Serika services at your own risk. Schoolsquid disclaims all responsibility and liability for AI-generated content, including any consequences arising from reliance on such content.
+
+- **SerikaBooru Image Storage**: Images uploaded to SerikaBooru (serika.art) are stored on Cloudflare R2 storage. If you upload images with an authenticated account, your serikaID is linked to those images. If you upload anonymously, no personal information is associated with your uploads. You retain copyright and ownership of the images you upload. **IMPORTANT - NO AI TRAINING POLICY**: Content uploaded to SerikaBooru is strictly prohibited from being used for any AI training, machine learning, or artificial intelligence model development under any circumstances. By uploading to SerikaBooru, you explicitly grant Schoolsquid a non-exclusive license to store, display, and distribute your images on the platform ONLY, and you agree that such content will never be used for AI training regardless of any other platform policies or user preferences.
+
+- **serikaVideo Content Storage**: Videos uploaded to serikaVideo are stored on Cloudflare R2 storage with api.video providing livestream infrastructure. Your serikaID is linked to videos you upload and your channel. **No DRM**: Videos are not protected by Digital Rights Management (DRM) and may be downloaded by viewers. You retain copyright and ownership of the videos you upload, but by uploading to serikaVideo, you grant Schoolsquid a non-exclusive license to store, display, distribute, and create derivative works (such as transcoding for different resolutions and bitrates) of your videos on the platform. Schoolsquid may use video content for service improvements, recommendations, and analytics.
 
 - **Content Moderation**: Schoolsquid reserves the right, but not the obligation, to monitor, review, remove, restrict, or reclassify content that violates these Terms, applicable laws, or community guidelines, at its sole discretion. This includes the right to suspend or terminate accounts associated with such content. NSFW content that is not properly flagged or that violates applicable laws will be subject to removal without notice.
 
-- **Content Removal Requests**: If you encounter any content that infringes on your copyright, violates applicable laws, or otherwise breaches these Terms, please contact us at **[copyright@serika.dev](mailto\:copyright@serika.dev)**. We will review and, if appropriate, remove or restrict access to such content in accordance with applicable laws and our policies.
+- **Content Removal Requests**: If you encounter any content that infringes on your copyright, violates applicable laws, or otherwise breaches these Terms, please contact us at **legal@serika.dev**. We will review and, if appropriate, remove or restrict access to such content in accordance with applicable laws and our policies.
 
-- **Data Usage, AI Training, and Privacy**: By using the Platform, you acknowledge and agree to the terms of our Privacy Policy, which is incorporated by reference. User messages are NOT used for AI training unless you have explicitly opted in to the AI training program. Data from users participating in the beta program (except for messages) may be used to improve user services, but will NEVER be used to train or develop a custom AI LLM unless you have opted in to the AI training program. Error reports are sent automatically to us via a secure webhook and you cannot opt out of this process. For more information, please review our Privacy Policy.
- - **Data Usage, AI Training, and Privacy**: By using the Platform, you acknowledge and agree to the terms of our Privacy Policy, which is incorporated by reference. User messages are NOT used for AI training unless you have explicitly opted in to the AI training program. Data from users participating in the beta program (except for messages) may be used to improve user services, but will NEVER be used to train or develop a custom AI LLM unless you have opted in to the AI training program. Error reports are sent automatically to us via a secure webhook and you cannot opt out of this process. For more information, please review our Privacy Policy. For Toka, we collect typical microblogging data categories necessary to operate the service (e.g., profiles, posts, replies, reposts/quotes, likes, bookmarks, follower/following relationships, mutes/blocks, lists, safety settings, and notification preferences), as described in detail in the Privacy Policy.
+- **Data Usage, AI Training, and Privacy**: By using Serika services, you acknowledge and agree to the terms of our Privacy Policy, which is incorporated by reference. User messages are NOT used for AI training unless you have explicitly opted in to the AI training program. Data from users participating in the beta program (except for messages) may be used to improve user services, but will NEVER be used to train or develop a custom AI LLM unless you have opted in to the AI training program. Error reports are sent automatically to us via a secure webhook and you cannot opt out of this process. For more information, please review our Privacy Policy. For Toka, we collect typical microblogging data categories necessary to operate the service (e.g., profiles, posts, replies, reposts/quotes, likes, bookmarks, follower/following relationships, mutes/blocks, lists, safety settings, and notification preferences), as described in detail in the Privacy Policy. For SerikaBooru, we store your serikaID (if authenticated) linked to your image uploads, or no data if you upload anonymously, and content is strictly protected from AI training use under any circumstances. For serikaVideo, we store your serikaID, channel information, video metadata, view history, engagement metrics, and comments to operate the service and provide recommendations. Note that serikaVideo has no DRM protections and videos may be downloaded by viewers.
 
 ---
 
@@ -151,7 +159,7 @@ All such disclosures shall be conducted in compliance with applicable data prote
 
 ## 8. Account Suspension and Termination
 
-Schoolsquid reserves the right, in its sole discretion, to suspend, restrict, or terminate user accounts, temporarily or permanently, for any reason we deem necessary or appropriate, even if not explicitly mentioned in these Terms. This includes, but is not limited to, the following reasons:
+Schoolsquid reserves the right, in its sole discretion, to suspend, restrict, or terminate user accounts across all Serika services, temporarily or permanently, for any reason we deem necessary or appropriate, even if not explicitly mentioned in these Terms. This includes, but is not limited to, the following reasons:
 
 - **Violation of Terms**: Any violation of these Terms, policies, or applicable laws.
 
@@ -159,12 +167,12 @@ Schoolsquid reserves the right, in its sole discretion, to suspend, restrict, or
 
 - **Prohibited Content**: Uploading or distributing content that is illicit, illegal, or violates the intellectual property rights of others.
 
-- **Policy Violations**: Repeated breaches of Platform guidelines, engaging in disruptive behaviors, or using the Platform in a manner deemed detrimental to other users or Schoolsquid.
+- **Policy Violations**: Repeated breaches of these guidelines, engaging in disruptive behaviors, or using Serika services in a manner deemed detrimental to other users or Schoolsquid.
 
 - **Age Violation**: Discovery of users who do not meet the age requirement of 16 years or older.
-- **Failure to Comply with Local Laws**: Using the Platform in a manner that violates the laws of your jurisdiction, even if such conduct is not illegal in the Netherlands.
+- **Failure to Comply with Local Laws**: Using Serika services in a manner that violates the laws of your jurisdiction, even if such conduct is not illegal in the Netherlands.
 
-Suspension or termination may occur without prior notice and may include the immediate removal of content, revocation of access to Services, and forfeiture of any subscription or payment without refund. **Premium memberships will automatically cancel during any suspension period, and users will not receive refunds for such purchases.** Termination is final and includes forfeiture of access to your account, data, and any associated content. Schoolsquid shall not be liable for any consequences resulting from the suspension or termination of accounts. We reserve the right to cooperate fully with law enforcement and regulatory authorities in any jurisdiction.
+Suspension or termination may occur without prior notice and may include the immediate removal of content across all Serika services, revocation of access to all Services, and forfeiture of any subscription or payment without refund. **Premium memberships will automatically cancel during any suspension period, and users will not receive refunds for such purchases.** Termination is final and includes forfeiture of access to your account across all Serika services, data, and any associated content. Schoolsquid shall not be liable for any consequences resulting from the suspension or termination of accounts. We reserve the right to cooperate fully with law enforcement and regulatory authorities in any jurisdiction.
 
 ---
 
@@ -172,10 +180,10 @@ Suspension or termination may occur without prior notice and may include the imm
 
 In addition to the prohibitions set forth in Section 4, you agree to comply with the following Acceptable Use Policy:
 
-- You will not use the Platform to transmit any content that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, or otherwise objectionable.
+- You will not use Serika services to transmit any content that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, or otherwise objectionable.
 - You will not upload or share any content that you do not have the legal right to distribute.
-- You will not attempt to gain unauthorized access to any portion of the Platform, other accounts, or computer systems connected to the Platform.
-- You will not use the Platform in any manner that could damage, disable, overburden, or impair our servers or networks.
+- You will not attempt to gain unauthorized access to any portion of Serika services, other accounts, or computer systems connected to Serika services.
+- You will not use Serika services in any manner that could damage, disable, overburden, or impair our servers or networks.
 - **NSFW Content**: NSFW content is permitted on the Platform provided that:
   - It is not illegal under applicable local, national, or international laws.
   - It does not depict minors (real or fictional) in a sexualized manner.
@@ -189,31 +197,31 @@ In addition to the prohibitions set forth in Section 4, you agree to comply with
   - Content infringing on third-party intellectual property rights without authorization.
 - **Prohibited Conduct**: Includes harassment, threats, doxxing, stalking, incitement to violence, and any activity that endangers the safety of others.
 
-Schoolsquid reserves the right, at its sole discretion, to moderate, remove, restrict, or reclassify any content that violates these Terms, applicable laws, or community guidelines, and to suspend or terminate accounts engaged in such violations. Users are solely responsible for ensuring their content and conduct comply with all applicable laws in their jurisdiction, and ignorance of the law is not a defense.
+Schoolsquid reserves the right, at its sole discretion, to moderate, remove, restrict, or reclassify any content across Serika services that violates these Terms, applicable laws, or community guidelines, and to suspend or terminate accounts engaged in such violations. Users are solely responsible for ensuring their content and conduct comply with all applicable laws in their jurisdiction, and ignorance of the law is not a defense.
 
-Violation of this Acceptable Use Policy may result in immediate suspension or termination of your account without notice, and may be referred to law enforcement where appropriate.
+Violation of this Acceptable Use Policy may result in immediate suspension or termination of your account across all Serika services without notice, and may be referred to law enforcement where appropriate.
 
 ---
 
-TO THE MAXIMUM EXTENT PERMISSIBLE BY LAW, SCHOOLSQUID DISCLAIMS ALL LIABILITY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE PLATFORM, EVEN IF SCHOOLSQUID HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS INCLUDES, BUT IS NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, REVENUE, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES.
+TO THE MAXIMUM EXTENT PERMISSIBLE BY LAW, SCHOOLSQUID DISCLAIMS ALL LIABILITY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF SERIKA SERVICES, EVEN IF SCHOOLSQUID HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS INCLUDES, BUT IS NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, REVENUE, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES.
 
-IN NO EVENT SHALL SCHOOLSQUID'S AGGREGATE LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR USE OF THE PLATFORM EXCEED THE AMOUNT PAID BY YOU, IF ANY, TO THE PLATFORM IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+IN NO EVENT SHALL SCHOOLSQUID'S AGGREGATE LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR USE OF SERIKA SERVICES EXCEED THE AMOUNT PAID BY YOU, IF ANY, TO SERIKA SERVICES IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
 
-Users agree to indemnify and hold harmless Schoolsquid, its affiliates, officers, employees, agents, and licensors from any claims, liabilities, damages, or expenses resulting from violations of these Terms or misuse of the Platform.
+Users agree to indemnify and hold harmless Schoolsquid, its affiliates, officers, employees, agents, and licensors from any claims, liabilities, damages, or expenses resulting from violations of these Terms or misuse of Serika services.
 
 ---
 
 ## 10. Intellectual Property Rights
 
-All Intellectual Property Rights in and to the Platform, including but not limited to its design, structure, selection, coordination, expression, and arrangement, are owned by or licensed to Schoolsquid. Except as expressly provided in these Terms, no part of the Platform may be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, or distributed in any way without our prior written consent.
+All Intellectual Property Rights in and to Serika services, including but not limited to their design, structure, selection, coordination, expression, and arrangement, are owned by or licensed to Schoolsquid. Except as expressly provided in these Terms, no part of Serika services may be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, or distributed in any way without our prior written consent.
 
-You retain ownership of your User-Generated Content but grant us a worldwide, perpetual, irrevocable, royalty-free, sublicensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display such content in connection with the operation and promotion of the Platform.
+You retain ownership of your User-Generated Content but grant us a worldwide, perpetual, irrevocable, royalty-free, sublicensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display such content in connection with the operation and promotion of Serika services.
 
 ---
 
 ## 10a. Serika Browser
 
-The Serika Browser is a standalone web browser application developed and distributed by Schoolsquid. The Serika Browser operates independently from the Serika.dev Platform and Toka services and is governed by the following terms:
+The Serika Browser is a standalone web browser application developed and distributed by Schoolsquid. The Serika Browser operates independently from other Serika services and is governed by the following terms:
 
 - **Open Source Software**: The Serika Browser is fully open source. The complete source code is publicly available for inspection, review, and audit by anyone. This transparency allows independent verification of our privacy and security claims and enables community contributions to the browser's development.
 
@@ -233,7 +241,7 @@ The Serika Browser is a standalone web browser application developed and distrib
 
 - **Limitation of Liability**: Schoolsquid shall not be liable for any damages, losses, or issues arising from your use of the Serika Browser, including but not limited to data loss, security vulnerabilities, or incompatibility with third-party services. Your use of the browser is at your own risk.
 
-- **Separate from Platform Services**: The Serika Browser operates independently from Serika.dev and Toka. Terms and policies applicable to those services (such as account management, content policies, and data collection practices) do NOT apply to the Serika Browser itself, except where explicitly stated in this section.
+- **Separate from Other Serika Services**: The Serika Browser operates independently from other Serika services. Terms and policies applicable to those services (such as account management, content policies, and data collection practices) do NOT apply to the Serika Browser itself, except where explicitly stated in this section.
 
 By downloading, installing, or using the Serika Browser, you acknowledge and agree to these terms. If you do not agree, you must immediately uninstall the browser and discontinue its use.
 
@@ -275,17 +283,17 @@ You agree to indemnify, defend, and hold harmless Schoolsquid, its affiliates, o
 
 ## 15. Modifications to Terms and Services
 
-Schoolsquid reserves the right to modify, amend, or discontinue the Platform, Services, or these Terms at any time. Modifications will be effective upon publication, and your continued use of the Platform following any updates constitutes acceptance of the revised Terms. Material changes will be communicated to users via email or/and as discord annoucement. You have the right to opt out or close your account if you do not agree with the updated Terms. It is your responsibility to review the Terms regularly.
+Schoolsquid reserves the right to modify, amend, or discontinue Serika services, Services, or these Terms at any time. Modifications will be effective upon publication, and your continued use of Serika services following any updates constitutes acceptance of the revised Terms. Material changes will be communicated to users via email or/and as discord announcement. You have the right to opt out or close your account if you do not agree with the updated Terms. It is your responsibility to review the Terms regularly.
 
-In addition, Schoolsquid may introduce new features, modify existing functionalities, or remove features as part of Platform improvements. Users acknowledge and agree that such modifications may alter access, availability, or functionality and that these updates are an integral part of the Services.
+In addition, Schoolsquid may introduce new features, modify existing functionalities, or remove features as part of service improvements. Users acknowledge and agree that such modifications may alter access, availability, or functionality and that these updates are an integral part of the Services.
 
 ---
 
 ## 16. Termination
 
-We may, in our sole discretion, suspend or terminate your access to the Platform at any time, with or without notice, for conduct that we believe violates these Terms or is otherwise harmful to other users, us, or third parties, or for any other reason.
+We may, in our sole discretion, suspend or terminate your access to Serika services at any time, with or without notice, for conduct that we believe violates these Terms or is otherwise harmful to other users, us, or third parties, or for any other reason.
 
-Upon termination, all rights granted to you under these Terms will immediately cease, and you must promptly discontinue all use of the Platform.
+Upon termination, all rights granted to you under these Terms will immediately cease, and you must promptly discontinue all use of Serika services.
 
 ---
 
@@ -297,6 +305,6 @@ If any provision of these Terms is deemed to be invalid, unlawful, or unenforcea
 
 ## 18. Entire Agreement
 
-These Terms, together with any additional policies incorporated by reference (including the Privacy Policy), constitute the entire agreement between you and Schoolsquid concerning the Platform and supersede all prior agreements, representations, and understandings. By creating an account or using the Platform, you actively consent to these Terms and the Privacy Policy. If you do not agree, you must not use the Platform.
+These Terms, together with any additional policies incorporated by reference (including the Privacy Policy), constitute the entire agreement between you and Schoolsquid concerning Serika services and supersede all prior agreements, representations, and understandings. By creating an account at accounts.serika.dev or using any Serika service, you actively consent to these Terms and the Privacy Policy. If you do not agree, you must not use Serika services.
 
-For further information or questions regarding these Terms, please contact us at **privacy@schoolsquid.xyz**.
+For further information or questions regarding these Terms, please contact us at **privacy@serika.dev**.
